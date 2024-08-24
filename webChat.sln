@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "webServer", ".\webServer\webServer.csproj", "{FD1D1B10-6DB4-4D2B-8827-883306E11021}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "webClientReceiveMessage", ".\webClientReceiveMessage\webClientReceiveMessage.csproj", "{5C1B31B1-75FB-456A-AB8D-88CDCB80FA58}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FD1D1B10-6DB4-4D2B-8827-883306E11021} = {FD1D1B10-6DB4-4D2B-8827-883306E11021}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "webClientSendMessage", ".\webClientSendMessage\webClientSendMessage.csproj", "{C3CF8E58-5F9E-41EC-9194-3FB3C1B96691}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FD1D1B10-6DB4-4D2B-8827-883306E11021} = {FD1D1B10-6DB4-4D2B-8827-883306E11021}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webClientGetHistoryFromDB", ".\webClientGetHistoryFromDB\webClientGetHistoryFromDB.csproj", "{99F211A2-C8EA-417B-8979-44BCCC4BF8C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD1D1B10-6DB4-4D2B-8827-883306E11021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD1D1B10-6DB4-4D2B-8827-883306E11021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD1D1B10-6DB4-4D2B-8827-883306E11021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD1D1B10-6DB4-4D2B-8827-883306E11021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C1B31B1-75FB-456A-AB8D-88CDCB80FA58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C1B31B1-75FB-456A-AB8D-88CDCB80FA58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C1B31B1-75FB-456A-AB8D-88CDCB80FA58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C1B31B1-75FB-456A-AB8D-88CDCB80FA58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3CF8E58-5F9E-41EC-9194-3FB3C1B96691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3CF8E58-5F9E-41EC-9194-3FB3C1B96691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3CF8E58-5F9E-41EC-9194-3FB3C1B96691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3CF8E58-5F9E-41EC-9194-3FB3C1B96691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99F211A2-C8EA-417B-8979-44BCCC4BF8C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F211A2-C8EA-417B-8979-44BCCC4BF8C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F211A2-C8EA-417B-8979-44BCCC4BF8C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F211A2-C8EA-417B-8979-44BCCC4BF8C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7D99C62-253B-40D3-997C-CFF635F6E834}
+	EndGlobalSection
+EndGlobal

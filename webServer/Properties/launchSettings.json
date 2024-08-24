@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "webChat": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "http://localhost:7028",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://localhost:7028"
+    },
+}

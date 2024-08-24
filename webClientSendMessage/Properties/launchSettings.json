@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "webClientSendMessage": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "http://localhost:7030",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://localhost:7030",
+    }
+  }

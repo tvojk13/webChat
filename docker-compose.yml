@@ -1,0 +1,60 @@
+services:
+  web_server:
+    build:
+      context: .
+      dockerfile: webServer/webServer.dockerfile
+    ports:
+      - "7028:7028"
+    volumes:
+      - data-keys:/root/.aspnet/DataProtection-Keys
+    depends_on:
+      - postgres_db
+
+  msg_2_client:
+    build:
+      context: .
+      dockerfile: webClientSendMessage/webClientSendMessage.dockerfile
+    ports:
+      - "7029:7029"
+    volumes:
+      - data-keys:/root/.aspnet/DataProtection-Keys
+    depends_on:
+      - postgres_db
+
+  msg_frm_client:
+    build:
+      context: .
+      dockerfile: webClientReceiveMessage/webClientReceiveMessage.dockerfile
+    ports:
+      - "7030:7030"
+    volumes:
+      - data-keys:/root/.aspnet/DataProtection-Keys
+    depends_on:
+      - postgres_db
+
+  get_msgs_frm_db:
+    build:
+      context: .
+      dockerfile: webClientGetHistoryFromDB/webClientGetHistoryFromDB.dockerfile
+    ports:
+      - "7031:7031"
+    volumes:
+      - data-keys:/root/.aspnet/DataProtection-Keys
+    depends_on:
+      - postgres_db
+
+  postgres_db:
+    image: postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 1
+      POSTGRES_DB: chat_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+
+volumes:
+  data-keys: {}
+  pgdata:

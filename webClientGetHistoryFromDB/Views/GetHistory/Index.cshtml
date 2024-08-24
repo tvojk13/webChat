@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    <label for="startDate">From:</label>
+    <input type="datetime-local" id="startDate" name="startDate" />
+    <br>
+    <label for="endDate">To:</label>
+    <input type="datetime-local" id="endDate" name="endDate" />
+
+    <button id="getData">Get</button>
+</div>
+
+<div id="result"></div>
+
+<script>
+    document.getElementById('getData').addEventListener('click', function () {
+        const startDate = document.getElementById('startDate').value;
+        const endDate = document.getElementById('endDate').value;
+
+        fetch(`http://localhost:7028/api/history?startDate=${startDate}&endDate=${endDate}`)
+            .then(response => response.json())
+            .then(data => {
+                let formattedData = '';
+                data.forEach((message, index) => {
+                    const messageNumber = index + 1;
+                    const timestamp = new Date(message.timestamp).toLocaleString();
+                    formattedData += `${messageNumber} | ${timestamp}: ${message.text}<br>`;
+                });
+
+                document.getElementById('result').innerHTML = formattedData;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('result').innerHTML = 'Error (check console)';
+            });
+    });
+</script>
+

@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h3>Receive</h3>
+<div id="messages"></div>
+
+<script>
+    const socket = new WebSocket('ws://localhost:7028/api/ws');
+
+    socket.onopen = function () {
+        console.log("WebSocket connection established.");
+    };
+
+    socket.onmessage = function (event) {
+        const messages = document.getElementById("messages");
+        messages.innerHTML += `<p>${event.data}</p>`;
+        console.log("Message received: ", event.data);
+    };
+
+    socket.onclose = function () {
+        console.log("WebSocket connection closed.");
+    };
+
+    socket.onerror = function (error) {
+        console.error("WebSocket error: ", error);
+    };
+</script>
+

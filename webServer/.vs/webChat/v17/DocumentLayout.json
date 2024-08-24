@@ -1,0 +1,486 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pepe\\source\\repos\\webChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99F211A2-C8EA-417B-8979-44BCCC4BF8C2}|..\\webClientGetHistoryFromDB\\webClientGetHistoryFromDB.csproj|c:\\users\\pepe\\source\\repos\\webclientgethistoryfromdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1D1B10-6DB4-4D2B-8827-883306E11021}|webServer.csproj|c:\\users\\pepe\\source\\repos\\webchat\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1D1B10-6DB4-4D2B-8827-883306E11021}|webServer.csproj|solutionrelative:controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1D1B10-6DB4-4D2B-8827-883306E11021}|webServer.csproj|c:\\users\\pepe\\source\\repos\\webchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1D1B10-6DB4-4D2B-8827-883306E11021}|webServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1D1B10-6DB4-4D2B-8827-883306E11021}|webServer.csproj|c:\\users\\pepe\\source\\repos\\webchat\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1D1B10-6DB4-4D2B-8827-883306E11021}|webServer.csproj|solutionrelative:dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F211A2-C8EA-417B-8979-44BCCC4BF8C2}|..\\webClientGetHistoryFromDB\\webClientGetHistoryFromDB.csproj|c:\\users\\pepe\\source\\repos\\webclientgethistoryfromdb\\controllers\\gethistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3CF8E58-5F9E-41EC-9194-3FB3C1B96691}|..\\webClientSendMessage\\webClientSendMessage.csproj|c:\\users\\pepe\\source\\repos\\webclientsendmessage\\controllers\\sendmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3CF8E58-5F9E-41EC-9194-3FB3C1B96691}|..\\webClientSendMessage\\webClientSendMessage.csproj|c:\\users\\pepe\\source\\repos\\webclientsendmessage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1D1B10-6DB4-4D2B-8827-883306E11021}|webServer.csproj|c:\\users\\pepe\\source\\repos\\webchat\\models\\messagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1D1B10-6DB4-4D2B-8827-883306E11021}|webServer.csproj|solutionrelative:models\\messagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1D1B10-6DB4-4D2B-8827-883306E11021}|webServer.csproj|c:\\users\\pepe\\source\\repos\\webchat\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1D1B10-6DB4-4D2B-8827-883306E11021}|webServer.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3CF8E58-5F9E-41EC-9194-3FB3C1B96691}|..\\webClientSendMessage\\webClientSendMessage.csproj|c:\\users\\pepe\\source\\repos\\webclientsendmessage\\views\\sendmessage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F211A2-C8EA-417B-8979-44BCCC4BF8C2}|..\\webClientGetHistoryFromDB\\webClientGetHistoryFromDB.csproj|c:\\users\\pepe\\source\\repos\\webclientgethistoryfromdb\\views\\gethistory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3CF8E58-5F9E-41EC-9194-3FB3C1B96691}|..\\webClientSendMessage\\webClientSendMessage.csproj|c:\\users\\pepe\\source\\repos\\webclientsendmessage\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1D1B10-6DB4-4D2B-8827-883306E11021}|webServer.csproj|c:\\users\\pepe\\source\\repos\\webchat\\webserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD1D1B10-6DB4-4D2B-8827-883306E11021}|webServer.csproj|solutionrelative:webserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1D1B10-6DB4-4D2B-8827-883306E11021}|webServer.csproj|c:\\users\\pepe\\source\\repos\\webchat\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD1D1B10-6DB4-4D2B-8827-883306E11021}|webServer.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1D1B10-6DB4-4D2B-8827-883306E11021}|webServer.csproj|c:\\users\\pepe\\source\\repos\\webchat\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD1D1B10-6DB4-4D2B-8827-883306E11021}|webServer.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1D1B10-6DB4-4D2B-8827-883306E11021}|webServer.csproj|c:\\users\\pepe\\source\\repos\\webchat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD1D1B10-6DB4-4D2B-8827-883306E11021}|webServer.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1D1B10-6DB4-4D2B-8827-883306E11021}|webServer.csproj|c:\\users\\pepe\\source\\repos\\webchat\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD1D1B10-6DB4-4D2B-8827-883306E11021}|webServer.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1D1B10-6DB4-4D2B-8827-883306E11021}|webServer.csproj|c:\\users\\pepe\\source\\repos\\webchat\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD1D1B10-6DB4-4D2B-8827-883306E11021}|webServer.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3CF8E58-5F9E-41EC-9194-3FB3C1B96691}|..\\webClientSendMessage\\webClientSendMessage.csproj|c:\\users\\pepe\\source\\repos\\webclientsendmessage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Controllers\\ReceiveMessageController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Views\\ReceiveMessage\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webClientGetHistoryFromDB\\Views\\GetHistory\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\webClientGetHistoryFromDB\\Views\\GetHistory\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webClientGetHistoryFromDB\\Views\\GetHistory\\Index.cshtml",
+              "RelativeToolTip": "..\\webClientGetHistoryFromDB\\Views\\GetHistory\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T13:49:07.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetHistoryController.cs",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webClientGetHistoryFromDB\\Controllers\\GetHistoryController.cs",
+              "RelativeDocumentMoniker": "..\\webClientGetHistoryFromDB\\Controllers\\GetHistoryController.cs",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webClientGetHistoryFromDB\\Controllers\\GetHistoryController.cs",
+              "RelativeToolTip": "..\\webClientGetHistoryFromDB\\Controllers\\GetHistoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:48:09.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webClientGetHistoryFromDB\\Program.cs",
+              "RelativeDocumentMoniker": "..\\webClientGetHistoryFromDB\\Program.cs",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webClientGetHistoryFromDB\\Program.cs",
+              "RelativeToolTip": "..\\webClientGetHistoryFromDB\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:44:56.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webChat\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webChat\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:26:12.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "..\\webClientWriteMessage\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "..\\webClientWriteMessage\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T13:23:07.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webChat\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webChat\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T13:21:49.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webChat\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webChat\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T13:21:47.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webChat\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webChat\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T13:21:40.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webChat\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webChat\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T13:21:38.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webChat\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webChat\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T13:16:50.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webClientSendMessage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\webClientSendMessage\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webClientSendMessage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\webClientSendMessage\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T13:16:48.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webClientSendMessage\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\webClientSendMessage\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webClientSendMessage\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\webClientSendMessage\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:09:50.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\webClientWriteMessage\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\webClientWriteMessage\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T12:43:56.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\webClientWriteMessage\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\webClientWriteMessage\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T12:43:47.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Program.cs",
+              "RelativeDocumentMoniker": "..\\webClientWriteMessage\\Program.cs",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Program.cs",
+              "RelativeToolTip": "..\\webClientWriteMessage\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAABBwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:17:12.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "webServer.csproj",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webChat\\webServer.csproj",
+              "RelativeDocumentMoniker": "webServer.csproj",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webChat\\webServer.csproj",
+              "RelativeToolTip": "webServer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-22T13:14:04.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SendMessageController.cs",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webClientSendMessage\\Controllers\\SendMessageController.cs",
+              "RelativeDocumentMoniker": "..\\webClientSendMessage\\Controllers\\SendMessageController.cs",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webClientSendMessage\\Controllers\\SendMessageController.cs",
+              "RelativeToolTip": "..\\webClientSendMessage\\Controllers\\SendMessageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:03:20.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "..\\webClientWriteMessage\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "..\\webClientWriteMessage\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T18:44:29.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\webClientWriteMessage\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\webClientWriteMessage\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwCgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T18:42:15.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "..\\webClientWriteMessage\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "..\\webClientWriteMessage\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T18:42:02.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "..\\webClientWriteMessage\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "..\\webClientWriteMessage\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T18:42:01.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webClientSendMessage\\Views\\SendMessage\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\webClientSendMessage\\Views\\SendMessage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webClientSendMessage\\Views\\SendMessage\\Index.cshtml",
+              "RelativeToolTip": "..\\webClientSendMessage\\Views\\SendMessage\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T17:58:25.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webClientSendMessage\\Program.cs",
+              "RelativeDocumentMoniker": "..\\webClientSendMessage\\Program.cs",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webClientSendMessage\\Program.cs",
+              "RelativeToolTip": "..\\webClientSendMessage\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:58:19.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\webClientWriteMessage\\appsettings.json",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\appsettings.json",
+              "RelativeToolTip": "..\\webClientWriteMessage\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T17:48:56.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReceiveMessageController.cs",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Controllers\\ReceiveMessageController.cs",
+              "RelativeDocumentMoniker": "..\\webClientWriteMessage\\Controllers\\ReceiveMessageController.cs",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Controllers\\ReceiveMessageController.cs",
+              "RelativeToolTip": "..\\webClientWriteMessage\\Controllers\\ReceiveMessageController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:36:20.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Views\\ReceiveMessage\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\webClientWriteMessage\\Views\\ReceiveMessage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webClientWriteMessage\\Views\\ReceiveMessage\\Index.cshtml",
+              "RelativeToolTip": "..\\webClientWriteMessage\\Views\\ReceiveMessage\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T17:26:52.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webChat\\DAL.cs",
+              "RelativeDocumentMoniker": "DAL.cs",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webChat\\DAL.cs",
+              "RelativeToolTip": "DAL.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:40:37.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webChat\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webChat\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "Controllers\\MessagesController.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAAADQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:38:50.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MessageModel.cs",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webChat\\Models\\MessageModel.cs",
+              "RelativeDocumentMoniker": "Models\\MessageModel.cs",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webChat\\Models\\MessageModel.cs",
+              "RelativeToolTip": "Models\\MessageModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:12:30.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pepe\\source\\repos\\webChat\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pepe\\source\\repos\\webChat\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:09:26.964Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
