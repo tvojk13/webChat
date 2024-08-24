@@ -28,11 +28,13 @@ This project is a simple web service designed for message exchange. It consists 
 
 1. **Clone the repository**:
 
+Clone the repository using this command:
+
    ```bash
    git clone https://github.com/tvojk13/webChat.git
    ```
 
-2. **Build and Start the Application**:
+3. **Build and Start the Application**:
 
 Run the following command to start all components using Docker Compose:
 
